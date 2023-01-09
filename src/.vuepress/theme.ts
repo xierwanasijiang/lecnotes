@@ -69,7 +69,7 @@ export default hopeTheme({
   contributors: false,
 
   // 文章所在仓库
-  docsRepo: "https://gitee.com/xiaoleandlu/mynotes.git",
+  docsRepo: "https://gitee.com/xiaoleandlu/lecnotes",
 
   // 文章所在分支
   docsBranch: "master",
