@@ -103,14 +103,14 @@ export default hopeTheme({
     // 头像
     avatar: "/blog_head_logo.gif",
     // 名称
-    name: "Mr.Tong",
+    name: "小乐",
     // 是否是圆形头像
     roundAvatar: false,
     // 个人描述
     description: "你是无意穿堂风 偏偏孤倨引山洪",
     // 社交媒体
     medias: {
-      Gitee: "https://gitee.com/oucystong",
+      Gitee: "https://gitee.com/xiaoleandlu",
     },
     // 博客的侧边栏设置
     sidebarDisplay: "mobile",

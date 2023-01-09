@@ -101,6 +101,7 @@ export const zhSidebar = sidebar({
             "算法小抄数据结构.md",
             "算法小抄算法思维.md",
             "算法小抄高频面试.md",
+            "helloworld.md",
           ],
         },
       ],
@@ -154,6 +155,7 @@ export const zhSidebar = sidebar({
       collapsible: true,
       link: "/floatinglife/thinker/",
     },
+   
   ],
 
   // 开源项目的侧边栏
