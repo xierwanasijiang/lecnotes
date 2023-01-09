@@ -7,12 +7,12 @@ import { zhSidebar } from "./sidebar/index.js";
 // 主题设置
 export default hopeTheme({
   // 当前网站部署到的域名
-  hostname: "https://gitee.com/oucystong",
+  hostname: "https://gitee.com/xiaoleandlu",
 
   // 文章显示的默认作者
   author: {
-    name: "Mr.Tong",
-    url: "https://gitee.com/oucystong",
+    name: "小乐",
+    url: "https://gitee.com/xiaoleandlu",
   },
 
   // 使用官方提供的图标库-也可以构建自己的图标库
