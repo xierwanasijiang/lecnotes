@@ -184,7 +184,7 @@ export default hopeTheme({
     // 打开博客功能
     blog: {
       // 在文章列表页面自动提取文章的摘要进行显示
-      autoExcerpt: true,
+     // autoExcerpt: true,
     },
     // 开启git实现编辑此页面-最后更新时间-贡献者功能
     git: true,
